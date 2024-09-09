@@ -1,4 +1,4 @@
-This simple program calculates the final grade for ENPM 611. It also acts as a demonstration project to show what a simple Python program looks like.
+This simple program calculates the final grade for ENPM 611 made by Vivek Chaurasia. It also acts as a demonstration project to show what a simple Python program looks like.
 
 # Setup
 
@@ -24,7 +24,7 @@ Python 3.10.10
 
 ## Clone repository
 
-To download the code to your computer, you should have Git installed. If you have not done so, go to 
+To download the code to your computer, you should have Git installed. If you have not done so, go to
 
 https://git-scm.com/downloads
 
